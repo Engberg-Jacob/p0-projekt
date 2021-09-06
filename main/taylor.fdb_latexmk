@@ -1,0 +1,11 @@
+# Fdb version 3
+["pdflatex"] 1630914135 "taylor.tex" "taylor.pdf" "taylor" 1630914135
+  "/etc/texmf/web2c/texmf.cnf" 1619212389 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1619212467 8256021 df0ffa73759a0976756bc26feccfc9cf ""
+  "taylor.aux" 1630914060 1363 fc9f6593fea7656d4a52b345264da1ce ""
+  "taylor.tex" 1630914134 651 d87185b8675193cc3196e9285a4bffb3 ""
+  (generated)
+  "taylor.log"
+  "taylor.pdf"
